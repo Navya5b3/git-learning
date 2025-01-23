@@ -1,1 +1,1 @@
-print("Git & Github bootcamp")
+print("Git & Github Traning")
